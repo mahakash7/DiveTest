@@ -1,0 +1,12 @@
+{
+	"currency":5000,
+	"level":1,
+	"oxygen":20,
+	"oxygen_price":1000,
+	"length":22,
+	"length_price":1000,
+	"speed":5,
+	"speed_price":1000,
+	"power":5,
+	"power_price":1000
+}
